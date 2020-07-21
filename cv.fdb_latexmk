@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex cv"] 1593829354 "cv.aux" "cv.bbl" "cv" 1593829358
+["bibtex cv"] 1593829354 "cv.aux" "cv.bbl" "cv" 1595358397
   "cv.aux" 1593829356 2670 1faaa97f3661630df71db972d631946e "xelatex"
   "d:/texlive/2020/texmf-dist/bibtex/bst/base/ieeetr.bst" 1593463984 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
   "publications.bib" 1593465278 12857 987ad365f98709aa243ccb6d7c2901a7 ""
   (generated)
-  "cv.blg"
   "cv.bbl"
-["xdvipdfmx"] 1593829357 "cv.xdv" "cv.pdf" "cv" 1593829358
+  "cv.blg"
+["xdvipdfmx"] 1593829357 "cv.xdv" "cv.pdf" "cv" 1595358397
   "cv.xdv" 1593829356 67180 8b753307d7d05fffa9fe984b9d8cfa41 "xelatex"
   (generated)
   "cv.pdf"
-["xelatex"] 1593829355 "cv.tex" "cv.xdv" "cv" 1593829358
+["xelatex"] 1593829355 "cv.tex" "cv.xdv" "cv" 1595358397
   "c:/Users/morimoto/texmf/tex/latex/Deedy-Resume/OpenFonts/deedy-resume-openfont.cls" 1593481197 2946 553ee58dea7ae1dd59b5b1514eadc41f ""
   "cv.aux" 1593829356 2670 1faaa97f3661630df71db972d631946e "xelatex"
   "cv.bbl" 1593829355 2264 dcdd67a93f1b8ff84765908420c80de1 "bibtex cv"
@@ -79,7 +79,7 @@
   "d:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1593468049 4770850 6b815e01bfd55e3397392554e5a3b280 ""
   "d:/texlive/2020/texmf.cnf" 1593467852 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   (generated)
-  "cv.aux"
+  "cv.out"
   "cv.log"
   "cv.xdv"
-  "cv.out"
+  "cv.aux"
