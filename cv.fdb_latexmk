@@ -1,21 +1,21 @@
 # Fdb version 3
-["bibtex cv"] 1608326732 "cv.aux" "cv.bbl" "cv" 1608334039
-  "cv.aux" 1608334036 2670 1faaa97f3661630df71db972d631946e "xelatex"
+["bibtex cv"] 1608326732 "cv.aux" "cv.bbl" "cv" 1608757530
+  "cv.aux" 1608757527 2670 1faaa97f3661630df71db972d631946e "xelatex"
   "d:/texlive/2020/texmf-dist/bibtex/bst/base/ieeetr.bst" 1593460384 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
   "publications.bib" 1593461678 12857 987ad365f98709aa243ccb6d7c2901a7 ""
   (generated)
   "cv.bbl"
   "cv.blg"
-["xdvipdfmx"] 1608334037 "cv.xdv" "cv.pdf" "cv" 1608334039
-  "cv.xdv" 1608334036 71040 57e76fcbc6c789a138eb83047272fc6d "xelatex"
+["xdvipdfmx"] 1608757528 "cv.xdv" "cv.pdf" "cv" 1608757530
+  "cv.xdv" 1608757527 71272 fd7d69df8e4d51ac6749784bfe265871 "xelatex"
   (generated)
   "cv.pdf"
-["xelatex"] 1608334018 "cv.tex" "cv.xdv" "cv" 1608334039
+["xelatex"] 1608757520 "cv.tex" "cv.xdv" "cv" 1608757530
   "c:/Users/morimoto/texmf/tex/latex/Deedy-Resume/OpenFonts/deedy-resume-openfont.cls" 1608326727 3057 5d93579a10ba2d1b6b7f040a03ab1cbe ""
-  "cv.aux" 1608334036 2670 1faaa97f3661630df71db972d631946e "xelatex"
+  "cv.aux" 1608757527 2670 1faaa97f3661630df71db972d631946e "xelatex"
   "cv.bbl" 1608326732 2264 dcdd67a93f1b8ff84765908420c80de1 "bibtex cv"
-  "cv.out" 1608334036 842 f6a6b1a4632925536d405d99c778391a "xelatex"
-  "cv.tex" 1608334010 7696 c2f7c135d0e8428ccf46f5907fdf4eb2 ""
+  "cv.out" 1608757527 842 f6a6b1a4632925536d405d99c778391a "xelatex"
+  "cv.tex" 1608757519 7742 c96da66518499b3cd20e0557eba1b0a3 ""
   "d:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1593461338 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/texlive/2020/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1593464216 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "d:/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1593460206 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -80,6 +80,6 @@
   "d:/texlive/2020/texmf.cnf" 1593464252 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   (generated)
   "cv.out"
-  "cv.aux"
   "cv.log"
+  "cv.aux"
   "cv.xdv"
